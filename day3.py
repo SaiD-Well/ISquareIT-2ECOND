@@ -2,8 +2,8 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-st.title("Welcome Everyone, We are learning PYTHON")
-st.write("Python requires practice!!!")
+st.title("This is REX")
+st.write("Python requires alot of practice!!!")
 
 data = pd.DataFrame({'c1':[10,20,30,40],'c2':['A','B','C','D']})
 
